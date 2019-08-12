@@ -87,9 +87,10 @@ a:hover{
 .mountain {
   border-bottom: 50%
 }
-.profile {
+a {
   margin: auto;
   border-radius: 50%;
+  margin-left: 20%;
 }
 .skill-row {
     width: 50%;
