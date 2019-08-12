@@ -43,6 +43,11 @@ a {
 a:hover{
   color: #EAF6F6;
 }
+
+p {
+  margin-left: 200px;
+  margin-right: 200px;
+}
 .bottom-cloud {
   position: absolute;
   margin-left: 10px;
