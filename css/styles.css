@@ -87,7 +87,7 @@ p {
   padding-right: 30px;
 }
 .middle-container {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 .mountain {
   border-bottom: 50%
@@ -95,7 +95,6 @@ p {
 .profile {
   margin: 200px;
   border-radius: 50%;
-  margin-left: 20%;
 }
 .skill-row {
     width: 50%;
